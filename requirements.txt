@@ -12,5 +12,5 @@ Keras-Preprocessing==1.1.0
 
 nltk>=3.4.5
 tensorflow==1.15.0
-tensorflow-estimator==1.15.1
+
 tensorflow-gpu==1.15.0
