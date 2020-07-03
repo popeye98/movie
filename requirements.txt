@@ -10,6 +10,4 @@ Keras==2.2.5
 
 
 nltk>=3.4.5
-tensorflow==1.15.0
 
-tensorflow-gpu==1.15.0
